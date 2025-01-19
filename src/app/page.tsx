@@ -55,7 +55,7 @@ const Home = () => {
         <section className="container mx-auto px-4 py-20 text-center">
           <motion.div className="max-w-3xl mx-auto" {...fadeIn}>
             <Heading size="large" className="mb-6">
-              Build Powerful Job Forms with Ease
+              Build Powerful Job Forms with Ease.
             </Heading>
             <Paragraph size="large" className="text-[#71717A] mb-8">
               Drag-and-drop form creation, advanced customization, and seamless
