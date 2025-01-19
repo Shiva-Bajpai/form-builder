@@ -42,7 +42,7 @@ const Home = () => {
             <Link href="/create">
               <Button className="rounded-xl">Create Form</Button>
             </Link>
-            <Link href="https://github.com/babyo77/form-builder">
+            <Link href="https://github.com/shiva-bajpai/form-builder">
               <Github />
             </Link>
           </div>
